@@ -32,3 +32,20 @@ C:\Users\blake.mcmillan\source\repos\Section-B-Lab1\Section B Lab\Section B Lab\
 C:\Users\blake.mcmillan\source\repos\Section-B-Lab1\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\Section B Lab.pdb
 C:\Users\blake.mcmillan\source\repos\Section-B-Lab1\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\Section B Lab.genruntimeconfig.cache
 C:\Users\blake.mcmillan\source\repos\Section-B-Lab1\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\ref\Section B Lab.dll
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\bin\Debug\net6.0-windows\Section B Lab.exe
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\bin\Debug\net6.0-windows\Section B Lab.deps.json
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\bin\Debug\net6.0-windows\Section B Lab.runtimeconfig.json
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\bin\Debug\net6.0-windows\Section B Lab.dll
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\bin\Debug\net6.0-windows\Section B Lab.pdb
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\Section B Lab.csproj.AssemblyReference.cache
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\Section_B_Lab.Form1.resources
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\Section B Lab.csproj.GenerateResource.cache
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\Section B Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\Section B Lab.AssemblyInfoInputs.cache
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\Section B Lab.AssemblyInfo.cs
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\Section B Lab.csproj.CoreCompileInputs.cache
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\Section B Lab.dll
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\refint\Section B Lab.dll
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\Section B Lab.pdb
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\Section B Lab.genruntimeconfig.cache
+C:\Users\blake.mcmillan\source\repos\Section-B-Lab2\Section B Lab\Section B Lab\obj\Debug\net6.0-windows\ref\Section B Lab.dll

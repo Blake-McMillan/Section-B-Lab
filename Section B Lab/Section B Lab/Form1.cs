@@ -60,42 +60,22 @@ namespace Section_B_Lab
 
         private void CalcAverage()
         {
-            StreamReader inputfile = File.OpenText("mh_temp2021.txt");
-            List<string> dgList = new List<string>();
+            string[] AvgTemp = new string[8759];
+            int index = 0;
 
-            while (!inputfile.EndOfStream)
-                dgList.Add(inputfile.ReadLine());
+            StreamReader inputFile;
+            inputFile = File.OpenText("mh_temp2021.txt");
+            while (index < AvgTemp.Length && !inputFile.EndOfStream)
+                AvgTemp[index++] = inputFile.ReadLine();
 
-            inputfile.Close();
+            inputFile.Close();
 
-
-
-
-
-            //StreamReader reader = File.OpenText("mh_temp2021.txt");
-            //while (reader.EndOfStream == false)
-            //{
-            //    string item = reader.ReadLine();
-
-            //}
-            //reader.Close();
+            foreach (string str in AvgTemp)
+                listBox1.Items.Add(str);
         }
-
-
-
-
-
-
 
         private void btnWeather_Click(object sender, EventArgs e)
         {
-            StreamReader reader = File.OpenText("mh_temp2021.txt");
-            while (reader.EndOfStream == false)
-            {
-                string item = reader.ReadLine();
-                txtAverageTemp.Text = item;
-            }
-            reader.Close();
-        }
+            CalcAverage();
     }
 }
