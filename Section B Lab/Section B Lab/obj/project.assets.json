@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\blake.mcmillan\\source\\repos\\Section-B-Lab2\\Section B Lab\\Section B Lab\\Section B Lab.csproj",
+      "projectUniqueName": "C:\\Users\\blake.mcmillan\\source\\repos\\Section-B-Lab3\\Section B Lab\\Section B Lab\\Section B Lab.csproj",
       "projectName": "Section B Lab",
-      "projectPath": "C:\\Users\\blake.mcmillan\\source\\repos\\Section-B-Lab2\\Section B Lab\\Section B Lab\\Section B Lab.csproj",
+      "projectPath": "C:\\Users\\blake.mcmillan\\source\\repos\\Section-B-Lab3\\Section B Lab\\Section B Lab\\Section B Lab.csproj",
       "packagesPath": "C:\\Users\\blake.mcmillan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\blake.mcmillan\\source\\repos\\Section-B-Lab2\\Section B Lab\\Section B Lab\\obj\\",
+      "outputPath": "C:\\Users\\blake.mcmillan\\source\\repos\\Section-B-Lab3\\Section B Lab\\Section B Lab\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

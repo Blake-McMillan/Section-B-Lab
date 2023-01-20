@@ -58,6 +58,8 @@ namespace Section_B_Lab
             LoadData();
         }
 
+        //could not finish the second half in time to hand in.
+
         private void CalcAverage()
         {
             string[] AvgTemp = new string[8759];
